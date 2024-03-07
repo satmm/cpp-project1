@@ -48,7 +48,7 @@ void account::show_account() const
 	cout<<"\nBalance amount : "<<deposit;
 }
 
-
+//modify
 void account::modify()
 {
 	cout<<"\nAccount No. : "<<acno;
@@ -104,7 +104,7 @@ void display_all();
 void deposit_withdraw(int, int); 
 void intro();	
 
-
+//main
 int main()
 {
 	char ch;
