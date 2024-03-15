@@ -25,9 +25,9 @@ public:
 
 void account::create_account()
 {
-	cout<<"\nEnter The account No. :";
+	cout<<"\n Enter The account Number :";
 	cin>>acno;
-	cout<<"\n\nEnter The Name of The account Holder : ";
+	cout<<"\n\n Enter The Name of The account Holder : ";
 	cin.ignore();
 	cin.getline(name,50);
 	cout<<"\nEnter Type of The account (C/S) : ";
