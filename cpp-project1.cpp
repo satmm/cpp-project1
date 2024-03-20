@@ -80,10 +80,10 @@ void account::report() const
 }
 
 	
-// int account::retacno() const
-// {
-// 	return acno;
-// }
+int account::retacno() const
+{
+	return acno;
+}
 
 int account::retdeposit() const
 {
