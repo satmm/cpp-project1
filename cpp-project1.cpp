@@ -5,6 +5,8 @@
 using namespace std;
 
 
+
+//account details
 class account
 {
 	int acno;
