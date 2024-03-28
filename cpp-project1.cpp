@@ -23,7 +23,11 @@ public:
 	int retacno() const;	
 	int retdeposit() const;	
 	char rettype() const;	
-};         
+};        
+
+
+//Create account
+
 
 void account::create_account()
 {
