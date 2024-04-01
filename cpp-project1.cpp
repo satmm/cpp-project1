@@ -176,6 +176,8 @@ int main()
 }
 
 
+//  write account
+
 void write_account()
 {
 	account ac;
