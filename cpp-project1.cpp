@@ -187,6 +187,10 @@ void write_account()
 	outFile.write(reinterpret_cast<char *> (&ac), sizeof(account));
 	outFile.close();
 }
+
+
+
+//Display
 void display_sp(int n)
 {
 	account ac;
