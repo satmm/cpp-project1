@@ -349,13 +349,13 @@ void deposit_withdraw(int n, int option)
 }
 
 
-// void intro()
-// {
-// 	cout<<"\n\n\n\t  BANK";
-// 	cout<<"\n\n\tMANAGEMENT";
-// 	cout<<"\n\n\t  SYSTEM";
+void intro()
+{
+	cout<<"\n\n\n\t  BANK";
+	cout<<"\n\n\tMANAGEMENT";
+	cout<<"\n\n\t  SYSTEM";
 
-// 	cout<<"\n\n enter your name :";
-// 	cin.get();
-// }
+	cout<<"\n\n enter your name :";
+	cin.get();
+}
 
