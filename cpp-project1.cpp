@@ -6,7 +6,6 @@ using namespace std;
 
 
 
-// //account details
 class account
 {
 	int acno;
@@ -57,7 +56,7 @@ void account::show_account() const
 	cout<<"\nBalance amount : "<<deposit;
 }
 
-
+//modify the details
 void account::modify()
 {
 	cout<<"\nAccount No. : "<<acno;
