@@ -1,2 +1,3 @@
-## cpp-project1
-bank management system
+# cpp-project1
+
+## Bank Management System
