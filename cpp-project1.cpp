@@ -162,7 +162,7 @@ int main()
 			modify_account(num);
 			break;
 		 case '8':
-			cout<<"\n\n\tThanks for using bank managemnt system";
+			cout<<"\n\n\tThank you for using our bank management system ";
 			break;
 		 default :cout<<"\a";
 		}
