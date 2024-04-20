@@ -211,7 +211,7 @@ void display_sp(int n)
 	}
 	inFile.close();
 	if(flag==false)
-		cout<<"\n\nAccount number does not exist";
+		cout<<"\n\nAccount number does not exist ...Enter the correct Number";
 }
 
 void modify_account(int n)
