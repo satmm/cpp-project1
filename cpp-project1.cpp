@@ -7,10 +7,6 @@ using namespace std;
 
 
 // Create Account
-
-
-
-
 void account::create_account()
 {
 	cout<<"\n Enter The account Number :";
