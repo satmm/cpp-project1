@@ -6,6 +6,30 @@ using namespace std;
 
 
 
+
+#include<iostream>
+#include<fstream>
+#include<cctype>
+#include<iomanip>
+using namespace std;
+
+
+
+#include<iostream>
+#include<fstream>
+#include<cctype>
+#include<iomanip>
+using namespace std;
+
+
+#include<iostream>
+#include<fstream>
+#include<cctype>
+#include<iomanip>
+using namespace std;
+
+
+
 // Create Account
 void account::create_account()
 {
