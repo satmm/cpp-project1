@@ -24,20 +24,7 @@ void account::create_account()
 }
 
 
-void account::create_account()
-{
-	cout<<"\n Enter The account Number :";
-	cin>>acno;
-	cout<<"\n\n Enter The Name of The account Holder : ";
-	cin.ignore();
-	cin.getline(name,50);
-	cout<<"\nEnter Type of The account (C/S) : ";
-	cin>>type;
-	type=toupper(type);
-	cout<<"\nEnter The Initial amount(>=500 for Saving and >=1000 for current ) : ";
-	cin>>deposit;
-	cout<<"\n\n\nAccount Successfully Created..";
-}
+
 
 
 
