@@ -26,11 +26,6 @@ void account::create_account()
 
 
 
-#include<iostream>
-#include<fstream>
-#include<cctype>
-#include<iomanip>
-using namespace std;
 
 
 #include<iostream>
