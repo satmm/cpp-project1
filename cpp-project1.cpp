@@ -24,12 +24,6 @@ void account::create_account()
 }
 
 
-
-
-
-v
-
-
 #include<iostream>
 #include<fstream>
 #include<cctype>
