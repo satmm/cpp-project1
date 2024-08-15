@@ -5,12 +5,6 @@
 using namespace std;
 
 
-#include<iostream>
-#include<fstream>
-#include<cctype>
-
-
-
 // Create Account
 void account::create_account()
 {
